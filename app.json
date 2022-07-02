@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "sweetrole",
+    "slug": "sweetrole",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
